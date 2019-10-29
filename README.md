@@ -67,6 +67,6 @@ I have worked on Android TV for finding user genre based on the user watching hi
 A great idea is just one part of the equation; we also want to learn a bit more about you. Share with us some of your other projects so we can get an idea of how we can assist you with your project.**  
   
 *Hello! I am Prafulla Malviya a professional Android developer in India.  I am new in ML. I have done some POC for Android TV based on ML for different clients.
-I tried to figure out the views genre based on logs. Also, tried to show the annotate the video. Find the target ads for the audience etc..
-I want to showcase "Smart recharge suggestion based on user call habits and network usage".*
+I tried to figure out the viewer genre based on their logs. Also, tried to the annotate the live video for connecting e-commerce with TV ads. Also, i have showcase the Poc where we targeted ads for the audience for linear programs.
+Now, I want to showcase "Smart recharge suggestion based on user call habits and network usage" in AndroidDevChallenge*
 
