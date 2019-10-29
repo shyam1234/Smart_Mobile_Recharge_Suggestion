@@ -7,12 +7,12 @@ Describe in 250 words what the feature or service will do and how you’ll use M
 <br/>
 <br/>
 
-*As we know mobile is an easier way to connect with anyone. And this is only possible if mobile has balance/recharge. Choose a good plan for the phone which fullfills the need is the hectic job for most of users. In general, they simply choose a plan which is in demand in market (popular plan) without compare their actual need. They almost choose the underfit or overfit plan NOT the exact one.
+*As we know mobile is an easier way to connect with anyone. And this is only possible if mobile has balance/recharge. Choose a good plan for the phone which fulfills the need is the hectic job for most of users. In general, they simply choose a plan which is in demand in market (popular plan) without compare their actual need. They almost choose the under fit or over fit plan NOT the exact one.
 
 I propose the solution that will be the on device ML based Android application which will help the user to make a decision while recharging the phone by giving the insight of the data usage and call. Also, give the suggestion among all the plans available based on On-device ML.
 
 I plan to implement a machine learning model using Firebase, Keras and Tensorflow lite in the app. 
-My plan is to train the model based on the user's call duration, data usage and prefeence recharge/history plan. Once the model is trained then I will integrate the model with the app to give smart recharge/plan suggestion while next recharge life cycle.
+My plan is to train the model based on the user's call duration, data usage and preference recharge/history plan. Once the model is trained then I will integrate the model with the app to give smart recharge/plan suggestion while next recharge life cycle.
 It will become a good outcome for "On-device ML".*  
 <br/>
 <br/>
