@@ -7,12 +7,12 @@ Describe in 250 words what the feature or service will do and how you’ll use M
 <br/>
 <br/>
 
-*As we know mobile is an easier way to connect with anyone. And mobile runs on recharge. So, recharge the phone with good postpaid or prepaid plane which fulfilled the need is the hectic work for most users. So, they simply choose more plan which has more demand in market without thing twice about their need.
-The solution is there will be the Android application which will help the user to make a decision while recharging the phone by giving the insight of the data usage and call. Also, give the suggestion among all the plans available based on On-device ML.
-I plan to implement a machine learning model using Firebase and Tensorflow lite in the app. 
-As if now, we do recharge based on the popular pack. But not actually based on over need. Only a few who know the usage they do by using their mind.
-But most of the need a good suggestion for their phone recharge.
-My plan is to train the model based on the user habit of talk, data use and recharge details. Once the model is trained then I will integrate the model with the app to give smart suggestion while next recharge life cycle.
+*As we know mobile is an easier way to connect with anyone. And this is only possible if mobile has balance/recharge. Choose a good plan for the phone which fullfills the need is the hectic job for most of users. In general, they simply choose a plan which is in demand in market (popular plan) without compare their actual need. They almost choose the underfit or overfit plan NOT the exact one.
+
+I propose the solution that will be the on device ML based Android application which will help the user to make a decision while recharging the phone by giving the insight of the data usage and call. Also, give the suggestion among all the plans available based on On-device ML.
+
+I plan to implement a machine learning model using Firebase, Keras and Tensorflow lite in the app. 
+My plan is to train the model based on the user's call duration, data usage and prefeence recharge/history plan. Once the model is trained then I will integrate the model with the app to give smart recharge/plan suggestion while next recharge life cycle.
 It will become a good outcome for "On-device ML".*  
 <br/>
 <br/>
