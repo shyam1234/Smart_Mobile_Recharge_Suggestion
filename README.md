@@ -26,7 +26,7 @@ Describe where your project is, how you could use Google’s help in the endeavo
 
 *I did not started working on the project. I am new in Machine Learning to Android Development. 
 To speed up the process, I have to work with under expert who knows the ML algorithm and deployment on Android for running sample offline. We really hope to solve the problem and hope to make this product widely accessible.
-I have worked on Android TV for finding user genre based on the user watching history. I really want to take the same experience for mobile recharge. It will solve the problems who really want good suggestions.*  
+I have worked on Android TV for finding user genre based on the user watching history. I really want to take the same experience for mobile recharge. It will solve the problems who really want good suggestions while picking recharge plans.*  
   
 <br/>
 
